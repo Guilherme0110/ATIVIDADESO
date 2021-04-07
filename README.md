@@ -1,5 +1,8 @@
-# Sistemas Operacionais - IFMA
-Repositório da disciplina de sistemas operacionais
+# Sistemas Operacionais - IFMA 
+[ATIVIDADE] 1.4 - Versionamento Repositório Algoritmos
+Alunos: Antonio Guilherme Martins Viana da Silva, Victor Hugo Moraes Santos e Vinicius Leal Mota Melo 
+Data: 07/04/2021
+
 
 ## Introdução
 
@@ -11,4 +14,4 @@ Instalar o Git local e criar uma conta no Github.
 
 ##Adicionando imagem no README.md
 
-![](SO.gif)
+![](PrintALG)
